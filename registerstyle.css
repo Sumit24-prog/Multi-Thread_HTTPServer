@@ -1,0 +1,69 @@
+input.submit:hover,input:hover 
+{
+  background-color: hsla(150,100%,50%,1);
+  border: 2px solid  hsla(200, 100%, 100%, 1);
+  color: hsla(200,100%,100%,1);
+}
+input.submit:focus,input:focus
+{
+  background-color: #ffffff;
+  color: hsla(200,100%,50%,1);
+}
+input.submit:active
+{
+  background-color: #ffffff;
+}
+input.submit
+{
+  background-color:hsla(200, 100%, 50%, 1);
+  border: 2px solid hsla(200,100%,100%,1);
+  color: hsla(0,100%,100%,1);
+  line-height: 1.4em;
+  margin: 20px 10px;
+} 
+input::placeholder
+{
+  color: #ffffff;
+}
+input
+{
+  padding: 6px 12px 6px 12px;
+  background-color: hsla(200,100%,50%,1);
+  border: 2px dotted hsla(0, 100%, 100%, 1);
+  color: #ffffff;
+  width: 200px;
+  margin : 10px 10px;
+}
+body
+{
+  background-image: url("blue.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px 700px;
+  padding: 4% 28%;
+  text-align: center;
+
+}  
+img
+{
+  border: dotted; 
+  border-color: hsla(200,100%,0%,1);
+}
+*:focus
+{
+  outline: none;
+} 
+.reg-box
+{
+  border: 2px dotted hsla(0,100%,100%,1);
+  padding: 10px 10px;
+  margin: 10px 10px; 
+  position:absolute; 
+  height:500px;
+  width:500px;
+  background-color: hsla(200,100%,50%,1);
+}
+h1
+{
+  color: hsla(0,100%,100%,1);
+  font-size: 25px;
+}

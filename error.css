@@ -1,0 +1,10 @@
+h1
+{
+  text-align: center;
+  color: #ffffff;
+  padding :10px 0px;
+  margin : 350px 10px;
+}
+body{
+  background-color: hsla(280, 100%, 50%, 1);
+}
