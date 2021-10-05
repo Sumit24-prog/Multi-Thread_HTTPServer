@@ -2,7 +2,7 @@
 My Multithread-HTTP-Server using java.
 Here I create a Java Server using Java ServerSocket class and connect it with web browser. 
 
-![Alt](./assets/images/Java1.JPG)
+![Alt](./assets/images/.JPG)
 <br>
 <hr/>
 ![2nd](./assets/images/java2.JPG)
