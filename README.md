@@ -6,7 +6,7 @@ Now ,Compile my Code Using Javac Command and use Java Command to run the server 
 After compile
 Run it :
 And You will get Simmilar Output:
-![Image](./assets/images/java2.JPG)
+![Image](./assets/images/Java1.JPG)
 <br/>
 <hr/>
 
